@@ -4,5 +4,8 @@ I'm a passionate C# developer who loves building tools, libraries and applicatio
 
 ## 🛠️ Projects I have made or I'm working on
 
-* [Atlas](https://github.com/kappaduck/atlas)
-* [Quack!](https://github.com/kappaduck/quack)
+* [Atlas] is a web game to test your knowledge of the world.
+* [Quack!] is a 2D/3D Game engine build on top of SDL3 for modern .NET applications.
+
+[Atlas]: https://github.com/kappaduck/atlas
+[Quack!]: https://github.com/kappaduck/quack
