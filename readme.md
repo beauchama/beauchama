@@ -10,3 +10,4 @@ I'm a passionate C# developer who loves building tools, libraries and applicatio
 
 [Atlas]: https://github.com/kappaduck/atlas
 [Quack!]: https://github.com/kappaduck/quack
+[Skynet]: https://github.com/kappaduck/skynet
