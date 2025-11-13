@@ -10,6 +10,6 @@ I'm a passionate C# developer who loves building tools, libraries and applicatio
 * [Skynet] a living documentation designed to explore and learn .NET ecosystem.
 
 [Atlas]: https://github.com/kappaduck/atlas
-[KappaDuck]: https://github.com/kappaduck
+[KappaDuck]: https://github.com/kappaduck/kappaduck
 [Quack!]: https://github.com/kappaduck/quack
 [Skynet]: https://github.com/kappaduck/skynet
