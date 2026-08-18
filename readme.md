@@ -7,6 +7,8 @@ I'm a passionate C# developer who loves building tools, libraries and applicatio
 * [Atlas] is a web game to test your knowledge of the world.
 * [KappaDuck] is my personal portfolio site showcasing my projects.
 * [Quack!] is a 2D/3D Game engine build on top of SDL3 for modern .NET applications.
+---
+[![GitHub Pulse](https://github-pulse-topaz.vercel.app/u/beauchama?theme=season)](https://github-pulse-topaz.vercel.app)
 
 [Atlas]: https://github.com/kappaduck/atlas
 [KappaDuck]: https://github.com/kappaduck/kappaduck
